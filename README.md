@@ -3,7 +3,9 @@
 About Me 😄 
 - 👯 I’m looking to collaborate on: Games
 - 😄 Pronouns: He/His
-- ⚡ Fun Fact: I play Chess: https://lichess.org/@/B1021017/perf/rapid
+- ⚡ Fun Fact: I play Chess: 
+- Lichess: https://lichess.org/@/B1021017/perf/rapid
+- Chess.com: https://www.chess.com/member/hewhowritescode
 
 ![Babacar's GitHub Overview](https://github-readme-stats.vercel.app/api?username=classBabacar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
